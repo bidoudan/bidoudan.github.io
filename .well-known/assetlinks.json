@@ -4,7 +4,7 @@
             "delegate_permission/common.handle_all_urls"
         ],
         "target": {
-            "namespace": "adria_softpass",
+            "namespace": "android_app",
             "package_name": "com.adria.adria_softpass",
             "sha256_cert_fingerprints": [
                 "B9:92:31:54:33:84:47:50:25:B6:83:CC:4E:7C:9B:AA:02:02:8D:95:1A:47:F1:57:6E:7A:BA:C6:8E:07:6C:4E"

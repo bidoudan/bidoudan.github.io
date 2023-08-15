@@ -7,6 +7,7 @@
             "namespace": "android_app",
             "package_name": "com.adria.adria_softpass",
             "sha256_cert_fingerprints": [
+                "9E:5E:F7:83:E1:B5:CB:A8:A6:35:32:3F:1C:E7:89:55:6E:06:8C:0E:F3:CA:39:1A:97:CD:FC:B9:17:07:73:C9",
                 "B9:92:31:54:33:84:47:50:25:B6:83:CC:4E:7C:9B:AA:02:02:8D:95:1A:47:F1:57:6E:7A:BA:C6:8E:07:6C:4E"
             ]
         }
